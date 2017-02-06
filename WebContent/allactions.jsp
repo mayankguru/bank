@@ -14,11 +14,11 @@
 <form action="CustomerSelection" method="post">
 
 <input type="radio" name="custaction" value="accounts" checked>Create or Edit Accounts<br>
-<input type="radio" name="custaction" value="Deposit">Deposit<br>
-<input type="radio" name="custaction" value="Withdraw">Withdraw<br>
-<input type="radio" name="custaction" value="Transactions">View or Print Transactions<br>
-<input type="radio" name="custaction" value="Order Checks">Order Checks<br>
-<input type="radio" name="custaction" value="Funds">Transfer Funds<br><br>
+<input type="radio" name="custaction" value="deposit">Deposit<br>
+<input type="radio" name="custaction" value="withdraw">Withdraw<br>
+<input type="radio" name="custaction" value="transactions">View or Print Transactions<br>
+<input type="radio" name="custaction" value="orderchecks">Order Checks<br>
+<input type="radio" name="custaction" value="funds">Transfer Funds<br><br>
 
 
 <input type="submit" value="Submit">
